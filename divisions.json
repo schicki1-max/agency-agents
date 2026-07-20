@@ -17,7 +17,6 @@
     "spatial-computing": { "label": "Spatial Computing", "icon": "Boxes", "color": "#06B6D4" },
     "specialized": { "label": "Specialized", "icon": "Sparkles", "color": "#6366F1" },
     "support": { "label": "Support", "icon": "LifeBuoy", "color": "#84CC16" },
-    "testing": { "label": "Testing", "icon": "FlaskConical", "color": "#F59E0B" },
-    "github": { "label": "GitHub", "icon": "Terminal", "color": "#000000" }
+    "testing": { "label": "Testing", "icon": "FlaskConical", "color": "#F59E0B" }
   }
 }
